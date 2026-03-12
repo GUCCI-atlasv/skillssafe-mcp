@@ -1,0 +1,27 @@
+{
+  "name": "skillssafe-mcp",
+  "version": "1.0.0",
+  "mcpName": "com.skillssafe/scanner",
+  "description": "MCP server for SkillsSafe — AI agent skill security scanner. Detects prompt injection, credential theft, zero-width character attacks, and ClawHavoc malware. Free, no API key required.",
+  "keywords": ["mcp", "security", "ai-safety", "prompt-injection", "skill-scanner", "clawhavoc"],
+  "author": "SkillsSafe",
+  "license": "MIT",
+  "homepage": "https://skillssafe.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GUCCI-atlasv/skillssafe-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GUCCI-atlasv/skillssafe-mcp/issues"
+  },
+  "type": "module",
+  "bin": {
+    "skillssafe-mcp": "./bin/skillssafe-mcp.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.2"
+  }
+}

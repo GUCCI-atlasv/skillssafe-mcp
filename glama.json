@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/servers/schema.json",
+  "name": "SkillsSafe Security Scanner",
+  "description": "Free AI agent skill security scanner. Scan SKILL.md files, MCP configs, and system prompts for credential theft, prompt injection, zero-width character attacks, and ClawHavoc malware indicators. No signup required.",
+  "homepage": "https://skillssafe.com",
+  "categories": ["security"],
+  "environment": []
+}
