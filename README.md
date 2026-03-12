@@ -90,6 +90,18 @@ Parameters:
 - **Smithery**: [skillssafe](https://smithery.ai/server/skillssafe)
 - **Glama**: [skillssafe-mcp](https://glama.ai/mcp/servers/GUCCI-atlasv/skillssafe-mcp)
 
+## 🛡️ Security Audit
+
+This project is indexed by [SkillsSafe](https://skillssafe.com).
+
+You can audit this MCP server before installing it:
+
+```bash
+openclaw mcp add skillssafe https://mcp.skillssafe.com/sse
+```
+
+Check out the community discussion on [Cursor Forum](https://forum.cursor.com/t/built-with-cursor-skillssafe-a-security-firewall-for-mcp-servers-ai-skills/154530).
+
 ## License
 
 MIT © SkillsSafe
