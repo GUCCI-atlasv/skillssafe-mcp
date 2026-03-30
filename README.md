@@ -56,6 +56,10 @@ For clients that support SSE transport:
 https://mcp.skillssafe.com/sse
 ```
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/gucci-atlasv-skillssafe-mcp).
+
 ## Tools
 
 ### `scan_skill`
